@@ -46,6 +46,9 @@
 @import url(../blocks/table/__text/_theme/table__text_theme_dark.css);
 @import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
 
+/* footer block */
+@import url(../blocks/footer/footer.css);
+
 /* * {
   outline: 1px solid red;
 } */
